@@ -1,1 +1,1 @@
-Criação de uma list ade tarefa básica, mas esta pausada por estar sendo realizados outrso testes / desafios ainda não publicados no github
+Criação de uma lista de tarefa básica, mas esta pausada por estar sendo realizados outros testes / desafios ainda não publicados no github
